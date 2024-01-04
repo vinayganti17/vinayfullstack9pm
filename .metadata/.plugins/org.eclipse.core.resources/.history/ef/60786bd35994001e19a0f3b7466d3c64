@@ -1,0 +1,14 @@
+package oops;
+
+public class DebitCard {
+	
+	private int pinNumber;
+	
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,20 @@
+package oops;
+
+class Parent {
+	public int a = 10;
+}
+
+class Child extends Parent  {
+	public int b = 20;
+}
+
+public class InheritanceDemo {
+
+	public static void main(String[] args) {
+		Child c = new Child();
+		System.out.println("A :"+c.a);
+		System.out.println("B :"+c.b);
+
+	}
+
+}
